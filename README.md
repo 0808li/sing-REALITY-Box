@@ -4,9 +4,6 @@ sing-REALITY-box is the first one-click installer script to install REALITY on s
 
 **If you think this project is helpful to you, you may want to give a**:star2:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/namelesghoul)
-
-- USDT (TRC20): `TPsWRCNkYFxLx8HjToXrp8HehQs5J4u2Pe`
 ## Features
 
 - Easy installation and configuration
@@ -29,7 +26,7 @@ Also updating the repo's is highly recommended (apt update && apt upgrade)
 
 
 ```bash
-bash <(curl -fsSL https://github.com/deathline94/sing-REALITY-Box/raw/main/sing-REALITY-box.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/0808li/sing-REALITY-Box/refs/heads/main/sing-REALITY-box.sh)
 
 ```
 
